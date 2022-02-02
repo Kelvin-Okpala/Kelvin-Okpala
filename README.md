@@ -25,7 +25,7 @@ My Name is Kelvin Okpala. A Data Analyst & Certified Scrum Master, Occasional Sp
   <tbody>
      <tr>
       <td><a href="https://github.com/Kelvin-Okpala/Kelvin-Okpala/blob/main/covid%20portfolio%20project%20with%20actual%20script.sql"><b>Global COVID Data Analysis!</b></a></td>
-      <td> Global Covid-19 Data Analysis is an SQL query written to aid visualization of certain parameters and indicators of the effect of Covid-19 globally and with hierachy to allow drill down of specific locations in the various continents. It captures live data of new cases, new deaths, population, new vaccinations among other records. It was able to show the rate of infection, the likelihood of death if infected vis-avis your location, the percentage vaccination per location etc.</td>
+      <td> Global Covid-19 Data Analysis is an SQL query written to aid visualization of certain parameters and indicators of the effect of Covid-19 globally with hierachy to allow drill down of specific locations in the various continents. It captures live data of new cases, new deaths, population, new vaccinations among other records. It enables you to see the rate of infection, the likelihood of death if infected vis-a-vis your location, the percentage vaccination per location, the percentage death vs population etc.</td>
     </tr>
     <tr>
     <tr>
