@@ -24,8 +24,8 @@ My Name is Kelvin Okpala. A Data Analyst & Certified Scrum Master, Occasional Sp
   </thead>
   <tbody>
      <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Covid-Surveillance-System"><b>COVID Data App!</b></a></td>
-      <td> Covid-19 Real-time Surveillance System  monitor COVID over time, detect changes in COVID occurrence (e.g., outbreaks), determine risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID.</td>
+      <td><a href="https://github.com/Kelvin-Okpala/Kelvin-Okpala/blob/main/covid%20portfolio%20project%20with%20actual%20script.sql"><b>Global COVID Data Analysis!</b></a></td>
+      <td> Global Covid-19 Data Analysis is an SQL query written to aid visualization of certain parameters and indicators of the effect of Covid-19 globally and with hierachy to allow drill down of specific locations in the various continents. It captures live data of new cases, new deaths, population, new vaccinations among other records. It was able to show the rate of infection, the likelihood of death if infected vis-avis your location, the percentage vaccination per location etc.</td>
     </tr>
     <tr>
     <tr>
